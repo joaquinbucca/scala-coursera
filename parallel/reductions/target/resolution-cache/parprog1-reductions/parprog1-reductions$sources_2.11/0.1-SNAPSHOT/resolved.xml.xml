@@ -4,7 +4,7 @@
 		module="parprog1-reductions$sources_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161016221740"
+		publication="20161024185923"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
